@@ -1,13 +1,5 @@
 # Programação Funcional
 
-Aula 24
-
-Raul Ikeda
-
-2025-1
-
-# Esta Aula
-
 - Project Webhook
 
 # Contexto
